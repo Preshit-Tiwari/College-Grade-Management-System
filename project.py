@@ -9,6 +9,7 @@ import tkinter as tk
 import random
 
 
+type_of_window = "-fullscreen"
 
 class College_Grade_Management:
 
@@ -38,7 +39,7 @@ class College_Grade_Management:
 
         # setting up the root
         self.root = root
-        self.root.attributes('-zoomed', True)
+        self.root.attributes(type_of_window, True)
         self.root.title(self.main_title)
 
         # Login In of session
@@ -579,7 +580,7 @@ class Login_Grade_Management(College_Grade_Management):
     def __init__(self, root):
 
         self.root = root
-        self.root.attributes('-zoomed', True)
+        self.root.attributes(type_of_window, True)
         self.root.title(self.main_title)
 
         self.fullscreen = True

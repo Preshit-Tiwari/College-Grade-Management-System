@@ -51,6 +51,13 @@ To set up the project locally, follow these steps:
     pip install .
     ```
 
+## Key Authority code
+```
+@7224Cs8$
+```
+
+
+
 ## Usage
 To run the application, execute the following command:
 ```sh
