@@ -57,6 +57,28 @@ To set up the project locally, follow these steps:
 ```
 
 
+## ScreenShots
+
+1. Login/register window
+
+    ![login](static/Screenshots/Screenshot_1.png)
+
+<BR>
+<BR>
+
+2. Entry/window after successful login
+
+    ![entry window](static/Screenshots/Screenshot_2.png)
+
+<BR>
+<BR>
+
+3. Main area for analyzing 
+
+    ![analyzing and data window](static/Screenshots/Screenshot_3.png)
+
+<BR>
+<BR>
 
 ## Usage
 To run the application, execute the following command:
